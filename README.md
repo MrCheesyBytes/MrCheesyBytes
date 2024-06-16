@@ -16,6 +16,17 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=MrCheesyBytes"
+    alt="MrCheesyBytes"
+  />
+				
+</p>
+
 - 🌱 I’m currently learning C++ and Networking.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sometimes, I think I have a superpower.
@@ -26,6 +37,8 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MrCheesyBytes)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCheesyBytes)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
