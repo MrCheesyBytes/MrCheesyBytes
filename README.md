@@ -1,5 +1,5 @@
 <h2 align="center">
-  Danindu Navoda
+  Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Danindu Navoda
 </h2>
 
 <p align="center">
@@ -69,6 +69,7 @@
 </p>
 
 <br>
+<img align="center" alt="GIF" src="https://tenor.com/view/cats-computer-hack-anon-anonymous-gif-14779987" />
 
 
 
