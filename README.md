@@ -69,7 +69,6 @@
 </p>
 
 <br>
-![image](https://github.com/MrCheesyBytes/MrCheesyBytes/assets/135207728/fc9ecd00-7587-4391-a2a4-5fb6504f6ed8)
 
 
 
