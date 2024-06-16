@@ -68,9 +68,10 @@
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrCheesyBytes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=8911F7&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
 
+<br>
+![image](https://github.com/MrCheesyBytes/MrCheesyBytes/assets/135207728/fc9ecd00-7587-4391-a2a4-5fb6504f6ed8)
 
-<br>
-<br>
+
 
 
 
