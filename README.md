@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/danindu_navoda_1c46e9ed09"><img width="32px" alt="Dev.to" title="danindu_navoda Dev.to" src="Github/dev.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="linktr.ee/d_navoda"><img width="32px" alt="linktr.ee" title="linktr.ee d_navoda" src="Github/link.png"></a>
+	<a href="https://linktr.ee/d_navoda"><img width="32px" alt="linktr.ee" title="linktree d_navoda" src="Github/link.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
