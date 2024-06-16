@@ -27,18 +27,51 @@
 				
 </p>
 
+<br>
+
+
 - 🌱 I’m currently learning C++ and Networking.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sometimes, I think I have a superpower.
+- 😎 Still a Rookie
+- 🏎️ Formula 1 fanboi
+
+
+<br>
+<br>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linux)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pycharm)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git)](https://github.com/harish-sethuraman/readme-components)
 
 
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=ffc0cd) 
+<br>
+<br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MrCheesyBytes)](https://git.io/streak-stats)
+<h3 align="center">Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCheesyBytes)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MrCheesyBytes&theme=merko" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrCheesyBytes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=8911F7&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</p>
+
+
+<br>
+<br>
+
 
 
 
