@@ -31,7 +31,7 @@
 
 <p align="center">
 	<img alt="GIF" src="https://github.com/MrCheesyBytes/MrCheesyBytes/assets/135207728/2deaab92-ff35-4cc1-8ace-71fb7c018c77" />
-	<img alt="GIF" src="https://png.pngtree.com/png-clipart/20230915/original/pngtree-sticker-with-an-old-computer-that-is-colorful-and-retro-vector-png-image_12226568.png" width="240px"/>
+	<img alt="GIF" src="Github/img1.png" width="350px"/>
 </p>
 
 - 🌱 I’m currently learning C++ and Networking.  
