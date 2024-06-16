@@ -31,7 +31,7 @@
 
 <p align="center">
 	<img alt="GIF" src="https://github.com/MrCheesyBytes/MrCheesyBytes/assets/135207728/2deaab92-ff35-4cc1-8ace-71fb7c018c77" />
-	<img alt="GIF" src="Github/img1.png" width="350px"/>
+	<img alt="GIF" src="Github/img2.png" width="350px"/>
 </p>
 
 - 🌱 I’m currently learning C++ and Networking.  
@@ -72,8 +72,11 @@
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MrCheesyBytes&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=8911F7&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
 
-<br>
+<be>
 
+<p align="center">
+	<img alt="PNG" src="Github/img1.png" width="350px"/>
+</p>
 
 
 
