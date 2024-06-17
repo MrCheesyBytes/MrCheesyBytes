@@ -55,6 +55,13 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=pycharm)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=stackoverflow)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=brave)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spotify)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=notion)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftoutlook)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftword)](https://github.com/harish-sethuraman/readme-components)
+
 
 
 
