@@ -83,6 +83,7 @@
 
 <p align="center">
 	<img alt="PNG" src="Github/img1.png" width="350px"/>
+ 	<img alt="PNG" src="Github/—Pngtree—sticker with an old computer_12226568.png" width="350px"/>
 	
 </p>
 
