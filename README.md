@@ -61,6 +61,7 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=notion)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftoutlook)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=microsoftword)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=neovim)](https://github.com/harish-sethuraman/readme-components)
 
 
 
